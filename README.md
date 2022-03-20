@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm BenseghireHamza</h1>
 <h3 align="center">I'm Front End web developer JavaScript</h3>
 
-- 🔭 I’m currently working on **Online**
+- I’m currently working on **Online**
+
+- 💬 Ask me about **anything do you need**
+
+- 📫 How to reach me **@BenseghireHamza**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
