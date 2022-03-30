@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/benseghirehamza" target="blank"><img align="center" src="https://www.flaticon.com/premium-icon/twitter_4494477?term=social%20media&page=1&position=15&page=1&position=15&related_id=4494477&origin=tag" alt="benseghirehamza" height="30" width="40" /></a>
+<a href="https://twitter.com/benseghirehamza" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/4494/premium/4494477.png?token=exp=1648657633~hmac=692d9a3012482e167791d92be98adfc1" alt="benseghirehamza" height="30" width="40" /></a>
 <a href="https://medium.com/benseghirehamza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="benseghirehamza" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/function code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="function code" height="30" width="40" /></a>
 </p>
