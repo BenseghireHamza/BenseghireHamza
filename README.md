@@ -1,4 +1,4 @@
-<h3 align="center">I'm Front End web developer JavaScript</h3>
+
 <img src="https://user-images.githubusercontent.com/96697713/170564031-ea6710f3-49cd-4c90-80a5-d0125b29392b.png"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
