@@ -4,7 +4,7 @@
 <p align="left">
 <a href="https://twitter.com/benseghirehamza" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504839.png?token=exp=1649451758~hmac=b2a457db405acb275de5a416336b001f" alt="benseghirehamza" height="40" width="40" /></a>
    <a href="https://medium.com/@benseghirehamza" target="blank"><img align="center" src="https://user-images.githubusercontent.com/96697713/170544776-f9bfdf7b-b233-4f50-9950-969ffbd4c03c.png" alt="benseghirehamza"      height="40" width="40" /></a> 
-<a href="https://www.youtube.com/channel/UCEa9TTjE9JV-Vzeusd4zZ9Q" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670147.png?token=exp=1649451863~hmac=328a103b01987f0882818894d3ceffc6" alt="function code" height="40" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCEa9TTjE9JV-Vzeusd4zZ9Q" target="blank"><img align="center" src="https://user-images.githubusercontent.com/96697713/170545350-1c62b41e-174b-44c8-b1df-7fb61f9d545a.png" alt="function code" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
