@@ -3,10 +3,9 @@
    <img src="https://user-images.githubusercontent.com/96697713/170564031-ea6710f3-49cd-4c90-80a5-d0125b29392b.png"/>
  
    <div align="center">
-       <img src="https://user-images.githubusercontent.com/96697713/170567706-41be9098-082f-48e4-8058-6afce1f0c4b8.png"width="200"/>
+       <img src="https://user-images.githubusercontent.com/96697713/170567706-41be9098-082f-48e4-8058-6afce1f0c4b8.png"width="220"/>
    </div>
 
-   
 <p align="center">
 <a href="https://twitter.com/benseghirehamza" target="blank"><img align="center" src="https://user-images.githubusercontent.com/96697713/170546090-e224cebb-eec8-4167-a118-6492497fc48d.png" alt="benseghirehamza" height="40" width="40" /></a>
      <a href="https://medium.com/@benseghirehamza" target="blank"><img align="center" src="https://user-images.githubusercontent.com/96697713/170544776-f9bfdf7b-b233-4f50-9950-969ffbd4c03c.png" alt="benseghirehamza"      height="40" width="40" /></a>
