@@ -1,9 +1,9 @@
 
 <div>
    <img src="https://user-images.githubusercontent.com/96697713/170564031-ea6710f3-49cd-4c90-80a5-d0125b29392b.png"/>
-   <h3 align="center">
-      <img src="https://user-images.githubusercontent.com/96697713/170565820-2e89afd6-c417-4cb5-81a0-c26e63d49504.png"/ align="center">
-   </h3>
+ 
+      <img src="https://user-images.githubusercontent.com/96697713/170567017-908a3a7e-5c41-4a4e-af27-58237c6946db.png align="center">
+
    
 <p align="center">
 <a href="https://twitter.com/benseghirehamza" target="blank"><img align="center" src="https://user-images.githubusercontent.com/96697713/170546090-e224cebb-eec8-4167-a118-6492497fc48d.png" alt="benseghirehamza" height="40" width="40" /></a>
